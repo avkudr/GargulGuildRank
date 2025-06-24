@@ -1,0 +1,8 @@
+## Interface: 11400
+## Title: GargulGuildRank
+## Notes: Modifies Gargul's roll table to display guild rank
+## Author: Zurkaan
+## Version: 0.0.1
+## Dependencies: Gargul
+## LoadWith: Gargul
+GargulGuildRank.lua
